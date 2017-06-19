@@ -9,6 +9,11 @@ title = "0004000000054000"
 region = "usa"
 release_date = "2011-11-13"
 
+[[ releases ]]
+title = "0004000000053F00"
+region = "EUR"
+release_date = "2011-11-18"
+
 [[ testcases ]]
 title = "0004000000054000"
 compatibility = "2"
@@ -18,3 +23,15 @@ author = "Flamboyant_Ham"
 cpu = "Intel Core i7-4720HQ"
 gpu = "GeForce GTX 960M"
 os = "Windows 10 14393"
+
+[[ testcases ]]
+title = "0004000000053F00"
+sha256 = "ef99f6cddb641550646b6d69592acd062bb9101ae0b23e3ed4f0b29d453e0d01"
+compatibility = "2"
+date = "2017-06-18"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"
+comments = "Runs, albeit very slowly, and with some minor graphical glitches; particularly: the dust effects, when characters are moving, render as a black square."

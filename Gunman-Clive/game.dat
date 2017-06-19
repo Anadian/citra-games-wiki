@@ -1,0 +1,21 @@
+title = "Gunman Clive"
+description = "Gunman Clive is an action game developed and published by Swedish indie video game development studio Hörberg Productions."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "00040000000C6300"
+region = "USA"
+release_date = "2012-12-20"
+
+[[ testcases ]]
+title = "00040000000C6300"
+sha256 = "17e298c79a7d874fd829a79da6bb8cb168a41bac6c40b01822fb15ea3148db4f"
+compatibility = "1"
+date = "2017-06-15"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"
+comments = "Runs pretty well. Only one (minor?) graphical glitch: the bullets are invisable."

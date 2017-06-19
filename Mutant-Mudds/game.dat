@@ -1,0 +1,21 @@
+title = "Mutant Mudds"
+description = "Mutant Mudds is a platform video game developed by Renegade Kid."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000086600"
+region = "USA"
+release_date = "2012-01-26"
+
+[[ testcases ]]
+title = "0004000000086600"
+sha256 = "a97a8fa42c2d0e619024c6be3ed604c036fced150336b1803d3d132786b019aa"
+compatibility = "3"
+date = "2017-06-15"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"
+comments = "Boots but doesn't render; just show a black screen. However, the game's music and sound effects still play and, based on audio, the game does seem to respond to input."

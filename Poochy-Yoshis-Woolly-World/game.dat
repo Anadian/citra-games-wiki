@@ -1,0 +1,8 @@
+title = "Poochy & Yoshi's Woolly World"
+description = "Yoshi's Woolly World, known in Japan as Yoshi Wool World, is a side-scrolling platformer video game developed by Good-Feel and published by Nintendo for the Wii U. A port for the Nintendo 3DS, known as Poochy & Yoshi's Woolly World, was released worldwide in early 2017."
+needs_system_files = false
+needs_shared_font = true
+
+[[ releases ]]
+
+[[ testcases ]]

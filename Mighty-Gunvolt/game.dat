@@ -1,0 +1,21 @@
+title = "Mighty Gunvolt"
+description = "Mighty Gunvolt is a platform video game developed and published by Inti Creates originally for the Nintendo 3DS."
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "000400000014CD00"
+region = "USA"
+release_date = "2015-04-02"
+
+[[ testcases ]]
+title = "000400000014CD00"
+sha256 = "5d767788ca4ed565bbd3affd50d1febdbbbffa502b714c34681cfd22554b5d07"
+compatibility = "0"
+date = "2017-06-15"
+version = "HEAD-5fe5cca"
+author = "Anadian"
+cpu = "Intel Core i7-6500U"
+gpu = "Intel HD Graphics 520"
+os = "Windows 10 14393"
+comments = "Runs flawlessly with not noticeable glitches."
