@@ -1,0 +1,4 @@
+title = "Super Mario Maker"
+description = "Super Mario Maker is a side-scrolling platform video game and game creation system developed and published by Nintendo for the Wii U game console, which released worldwide in September 2015. An adapted port for the Nintendo 3DS, known as Super Mario Maker for Nintendo 3DS, was released in December 2016."
+needs_system_files = false
+needs_shared_font = true
